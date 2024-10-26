@@ -3,7 +3,6 @@ in powershell. (THIS IS THE OFFICAL DOWNLOAD WHERE THE DOWNLOAD HAS NOT BEEN TAM
 
 VERSION 1.0 [OFFICAL]
 Released 10/25 10:15 PM EST
-base code added.
 ----------------------------
 VERSION 2.0 [BETA]
 (DEVELOPMENT IN PROGRESS)
