@@ -6,3 +6,5 @@ This will explain the .#### at the end of versions
 
 [.PATCH] - Only patches are added to this type of version no new features are added and nothing is almost changed it is also optional and slighty not recommended as to download a small fix is unessacary but are HIGHLY 
 Recommended if you are having issues.
+
+[.OUTDATED] - This version has been fixed by a patch a minor or major update it is HIGHLY NOT recommended to install this unless you can fix it yourself and want to edit it.
